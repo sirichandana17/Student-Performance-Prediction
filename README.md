@@ -68,7 +68,14 @@ It evaluates performance under **three real-world scenarios** by selectively inc
 - Pandas
 - Matplotlib
 - Scikit-learn
+---
 
+## ▶️ How to Run
+
+```bash
+pip install numpy pandas matplotlib scikit-learn
+python SPP-ML.py
+```
 ---
 
 ## 📈 Output
